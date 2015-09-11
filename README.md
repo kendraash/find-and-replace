@@ -8,19 +8,29 @@
 This application takes three inputs of type string. The first is a sentence followed by a word to find within the sentence, lastly a word to replace that word.
 
 ## Setup
-* git clone repository
-* open find-and-replace.html in browser
+
+1. open a command terminal
+2. `git clone https://github.com/kendraash/find-and-replace.git`
+3. `cd find-and-replace` to navigate to the project directory
+4. open find-and-replace.html to launch the application
 
 _Users can:_
 * _Enter a sentence_
 * _A word to search for_
 * _A replace word_
 
+## Technologies Used
 
-## Technology Used
-* _JavaScript_
-* _JQuery_
+Programming Language
+* JavaScript
+* html
 
+Web Application Library
+* jquery
+
+Test Tools and Framework
+* chai
+* mocha
 
 ### Legal
 
