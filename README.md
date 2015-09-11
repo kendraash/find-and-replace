@@ -1,14 +1,20 @@
-# _App Name_
+# _Find and Replace_
 
-##### This app allows you to .....
+##### This app allows you to find a word in a sentence and replace it with another.
 
 #### By _**Kendra Ash**_
 
 ## Description
+This application takes three inputs of type string. The first is a sentence followed by a word to find within the sentence, lastly a word to replace that word.
+
+## Setup
+* git clone repository
+* open find-and-replace.html in browser
 
 _Users can:_
-
-* _....._
+* _Enter a sentence_
+* _A word to search for_
+* _A replace word_
 
 
 ## Technology Used
