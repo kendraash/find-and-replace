@@ -2,7 +2,7 @@
 
 ##### This app allows you to .....
 
-#### By _**Yelena Nedelko**_
+#### By _**Kendra Ash**_
 
 ## Description
 
@@ -18,7 +18,7 @@ _Users can:_
 
 ### Legal
 
-Copyright (c) 2015 **_Yelena Nedelko_**
+Copyright (c) 2015 **_Kendra Ash_**
 
 This software is licensed under the MIT license.
 
