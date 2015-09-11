@@ -10,4 +10,8 @@ describe("findAndReplace", function() {
     expect(findAndReplace("Good morning", "morning", "evening")).to.equal("Good evening")
   });
 
+  it("returns the new sentence with the replaceWord for each time findWord appears", function() {
+    expect(findAndReplace("Good morning, good morning", "morning", "evening")).to.equal("Good evening, good evening")
+  });
+
 });

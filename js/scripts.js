@@ -1,9 +1,8 @@
 var findAndReplace = function(sentence, findWord, replaceWord) {
   if(sentence && findWord && replaceWord != null && (findWord != replaceWord) )
   {
-    // sentence = sentence.LowerCase();
-    // var position = sentence.search(/findWord/i);
-    var final_sentence = sentence.replace(findWord, replaceWord)
+    var allFindWord = new RegExp(findWord, 'g');
+    var final_sentence = sentence.replace(allFindWord, replaceWord)
     return final_sentence;
   }
   else {
